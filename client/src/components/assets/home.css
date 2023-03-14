@@ -4,11 +4,16 @@ body{
    
 
 }
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Roboto&display=swap');
 
 
+
+.skill h2{
+    font-family: 'Oswald', sans-serif;
+}
 .myskillanimat {
     position: absolute
     

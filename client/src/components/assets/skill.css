@@ -1,6 +1,7 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
 
 .card{
     width: 18rem;margin: auto;
@@ -15,7 +16,8 @@
 }
 .skillTitle{margin-top: 3rem;
 text-align: center;
-font-family: 'Akshar', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-weight: bold;
 }
 .skillFirst,.skillSecond{
     display: flex;

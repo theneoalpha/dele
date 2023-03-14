@@ -69,8 +69,7 @@ export default function Skill() {
           <div className="card-body">
             <h5 className="card-title">Thumbnail Design</h5>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+            I can use my creative skills and technical expertise to create engaging and visually appealing thumbnails for various platforms.
             </p>
             {/* <a href="#" className="btn btn-primary">
               Go somewhere
