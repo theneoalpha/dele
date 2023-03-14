@@ -2,7 +2,7 @@
 import './App.css';
 import React  from 'react';
 
-// import Navbar2 from './components/Navbar2';
+import Navbar2 from './components/Navbar2';
 import Home from './components/Home';
 
 // import Footer from './components/Footer';
@@ -21,8 +21,7 @@ function App() {
    <>
 
       <BrowserRouter>
-        {/* <Navbar2/> */}
-        {/* <Home/> */}
+     
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/skills" element={<Skill />} />
@@ -30,7 +29,7 @@ function App() {
             <Route path="/thankyou" element={<Thankyou />} />
 
           </Routes>
-          {/* <Footer /> */}
+        
         </BrowserRouter>
 
 
@@ -43,12 +42,7 @@ function App() {
 
 
 
-   {/* <Navbar/> */}
  
-{/* <Home/> */}
-{/* <Skill/> */}
-{/* <Contact/> */}
-
    
    </>
   );

@@ -422,7 +422,7 @@ span {
   }
   nav ul li{
     margin: 16px 11px;
-  } */ */ */
+  } 
 .myskills{
     top: 36vh;
 }
@@ -454,7 +454,7 @@ span {
     top: 20vh;
 }
 .myskills{
-    /* height: 866px; */
+    
     flex-direction: column;
 }
 .skilllist h2{
@@ -466,9 +466,6 @@ span {
     width: 100%;
 }
 }
-/* .skillcontent{
-    flex-direction: column;
-} */
 .skills{
     width: 80%;
     margin: auto;
@@ -477,9 +474,6 @@ span {
     margin-top: auto;
     font-size: 0.8rem;
 }
-/* .thirdpage{
-    height: 170vh;
-} */
 @media  screen and (max-width:768px){
     .navbar-toggler-icon{
         margin-left: 0px;

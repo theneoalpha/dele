@@ -7,8 +7,8 @@ export default function Footer(props) {
     <div id="footer">
 
     <p>
-Copyright &copy; 2022   | All Right Reserved   </p>         
-{/* <p>Copyright &copy; 2020</p> */}
+Copyright &copy; 2023   | All Right Reserved   </p>         
+
     </div>
     
     
